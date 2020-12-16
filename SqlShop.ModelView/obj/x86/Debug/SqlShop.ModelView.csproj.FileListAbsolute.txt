@@ -1,0 +1,4 @@
+G:\WorkSpace\C#\C# Session11\SqlShop\SqlShop.ModelView\obj\x86\Debug\SqlShop.ModelView.csprojAssemblyReference.cache
+G:\WorkSpace\C#\C# Session11\SqlShop\SqlShop.ModelView\obj\x86\Debug\SqlShop.ModelView.Properties.Resources.resources
+G:\WorkSpace\C#\C# Session11\SqlShop\SqlShop.ModelView\obj\x86\Debug\SqlShop.ModelView.csproj.GenerateResource.cache
+G:\WorkSpace\C#\C# Session11\SqlShop\SqlShop.ModelView\obj\x86\Debug\SqlShop.ModelView.csproj.CoreCompileInputs.cache
